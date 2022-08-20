@@ -1,0 +1,201 @@
+{
+"Home": [
+{"key":"采集","title":"七七资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
+{"key":"网页","title":"网页资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
+{"key":"APP","title":"APP资源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
+{"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
+{"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
+{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
+{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
+],
+
+ //主页接口
+"zhuyejiekou": [
+{"name":"9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"name":"美剧范","url":"http://ttzmz.net/api.php/v1.vod"},
+{"name":"美剧虫","url":"https://meijuchong.com/api.php/v1.vod"},
+{"name":"益达影院","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"name":"大猫影视","url":"http://app.ishen520.com/api.php/v1.vod"},
+{"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"name":"兔子窝","url":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
+{"name":"躺平影视","url":"http://www.lltpys.com/api.php/app/"},
+{"name":"看365","url":"https://www.kan365.xyz/api.php/app/"},
+{"name":"北川","url":"https://www.bcwzg.com/api.php/app/"},
+{"name":"钟特影视","url":"https://app.zteys.com/api.php/v1.vod"},
+{"name":"天空V2","url":"https://www.tkys.tv/xgapp.php/v2/"},
+{"name":"三日影院","url":"https://www.3ri.net/api.php/v1.vod"},
+{"name":"双鹿影院","url":"http://cr.slidc.top/mubai_api.php/m2.vod"},
+{"name":"粉象视界","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+{"name":"懒猫影视","url":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
+{"name":"阿里","url":"http://aliys.cn:90/api.php/v1.vod"},
+{"name":"QC","url":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
+{"name":"黄河","url":"http://i.ledu8.cn/api.php/v1.vod"},
+{"name":"极酷视频","url":"https://jiku.vip/mogai_api.php/v1.vod"},
+{"name":"橘子","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
+{"name":"奇飞专线","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"天空影视","url":"https://tkys.tv/xgapp.php/v1/"},
+{"name":"段友2影视","url":"https://shangjihuoke.com/api.php/tv.vod"},
+{"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
+{"name":"天诚影视","url":"http://tcspvip.cn/api.php/v1.vod"},
+{"name":"艾特影视","url":"https://www.aitee.cc/api.php/v1.vod"},
+{"name":"段友影视1","url":"http://js.66app.me/api.php/app/"},
+{"name":"比邻影视","url":"http://0hzy.cn:9990/mogai_api.php/v1.vod"},
+{"name":"追剧达人","url":"https://www.zhuijudaren.com/mogai_api.php/v1.vod"},
+{"name":"69院线","url":"http://app.269w.com/api.php/v1.vod"},
+{"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"}
+],
+
+//采集站
+"caijizhan": [
+{"name":"七七","url":"http://api.kunyu77.com/api.php"}
+],
+
+//主解析
+"zhujiexi": [
+{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"左岸2","url":"https://za.kuanjv.com/?url="},
+{"name":"太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
+{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="}
+],
+
+//备用解析
+"beiyongjiexi": [
+{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+{"name":"九亿","url":"https://m3u8.look4you.top/?url="}
+],
+
+//电视直播
+"dianshizhibo": "http://www.m9527.top/blive.txt", 
+ 
+ //过虑地址？？
+"guolvdizhi": "player.css#url=#cnzz.com#51.la",
+ 
+ //自定义
+"zidingyi": [
+{"name": "乐猪影视",
+"url": "http://www.lezhutv.com",
+
+//替换
+"tihuan": "cnzz.com",
+"User": "空",
+
+//分类
+"fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-",
+
+//后缀
+"houzhui": ".html",
+
+//是否二次截取
+"shifouercijiequ": "0",
+
+//截取前
+"jiequqian": "空",
+//截取后
+"jiequhou": "空",
+
+//截取数组前
+"jiequshuzuqian": "class=\"vbox\"",
+//截取数组后
+"jiequshuzuhou": "</a>",
+
+//图片前
+"tupianqian": "data-original=\"",
+//图片后
+"tupianhou": "\"",
+
+//标题前
+"biaotiqian": "title=\"",
+//标题后
+"biaotihou": "\"",
+
+//链接前
+"lianjieqian": "href=\"",
+//链接后
+"lianjiehou": "\"",
+
+//搜索前
+"sousuoqian": "/search-pg-1-wd-",
+//搜索后
+"sousuohou": ".html",
+//搜索后缀
+"sousuohouzhui": "/detail/",
+//搜索模式
+"ssmoshi": "1",
+//搜索是否二次截取
+"sousuoshifouercijiequ": "0",
+"jspic": "空",
+"jsname": "空",
+"jsid": "空",
+
+//搜索截取前
+"ssjiequqian": "空",
+/搜索截取后
+"ssjiequhou": "空",/
+//搜索截取数组前
+"ssjiequshuzuqian": "class=\"vbox\"",
+//搜索截取数组后
+"ssjiequshuzuhou": "</a>",
+//搜索替换前
+"sstupianqian": "data-original=\"",
+//搜索替换后
+"sstupianhou": "\"",
+//搜索标题前
+"ssbiaotiqian": "title=\"",
+//搜索标题后
+"ssbiaotihou": "\"",
+//搜索链接前
+"sslianjieqian": "href=\"",
+//搜索链接后
+"sslianjiehou": "\"",
+
+//播放是否二次截取
+"bfshifouercijiequ": "0",
+//播放截取前
+"bfjiequqian": "空",
+//播放截取后
+"bfjiequhou": "空",
+//播放截取数组前
+"bfjiequshuzuqian": "class=\"list_block show\"",
+//播放截取数组后
+"bfjiequshuzuhou": "</ul>",
+
+//状态前？？
+"zhuangtaiqian": "class=\"yac\">",
+//状态后？？
+"zhuangtaihou": "</p>",
+
+//导演前
+"daoyanqian": "导演：</span>",
+//导演后
+"daoyanhou": "</p>",
+//主演前
+"zhuyanqian": "主演：</span>",
+//主演后
+"zhuyanhou": "</p>",
+//剧情前
+"juqingqian": "class=\"tbox_js\">",
+//剧情后
+"juqinghou": "</div>",
+
+//播放页是否二次截取？？
+"bfyshifouercijiequ": "0",
+//播放页截取前
+"bfyjiequqian": "空",
+//播放页截取后
+"bfyjiequhou": "空",
+//播放页截取数组前
+"bfyjiequshuzuqian": "<li>",
+//播放页截取数组后
+"bfyjiequshuzuhou": "</li>",
+//播放标题前
+"bfbiaotiqian": "\">",
+//播放标题后
+"bfbiaotihou": "</a>",
+//播放链接前
+"bflianjieqian": "href=\"",
+//播放链接后
+"bflianjiehou": "\""},
